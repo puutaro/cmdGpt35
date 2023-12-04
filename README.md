@@ -28,6 +28,7 @@ Table of Contents
 2. Install this fannel by [install repo](https://github.com/puutaro/CommandClick/blob/master/USAGE.md#install-fannel) or QR code
 
 ## Toolbar buttons
+---------------------
 
 ### Play Button
 Launch gpt3.5
