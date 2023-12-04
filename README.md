@@ -12,6 +12,7 @@ GPT3.5 free client @puutaro
 Table of Contents
 -------
 <!-- vim-markdown-toc GFM -->
+* [Installation](#installation)
 * [Toolbar buttons](#toolbar-buttons)
  * [Play Button](#play-button)
 * [Cmd Variables](#cmd-variables)
@@ -19,6 +20,11 @@ Table of Contents
 	* [REMOVE_TEXT](#remove_text)
 * [Setting variables](#setting-variables)
 	* [terminalFontZoom](#terminalfontzoom)
+
+## Installation
+
+1. Install [ComamndClick](https://github.com/puutaro/CommandClick#app-installation) to your android
+2. Install this fannel by [install repo](https://github.com/puutaro/CommandClick/blob/master/USAGE.md#install-fannel) or QR code
 
 ## Toolbar buttons
 
